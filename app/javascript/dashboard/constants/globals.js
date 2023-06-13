@@ -21,7 +21,7 @@ export default {
     CONDENSED: 'condensed',
     EXPANDED: 'expanded',
   },
-  DOCS_URL: '//www.chatwoot.com/docs/product/',
+  DOCS_URL: '//plait.chat/hc/plat-help-center/en',
   TESTIMONIAL_URL: 'https://testimonials.cdn.chatwoot.com/content.json',
   SMALL_SCREEN_BREAKPOINT: 1024,
   AVAILABILITY_STATUS_KEYS: ['online', 'busy', 'offline'],
