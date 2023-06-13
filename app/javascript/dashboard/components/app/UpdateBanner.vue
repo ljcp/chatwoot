@@ -1,6 +1,6 @@
 <template>
   <banner
-    v-if="shouldShowBanner"
+    v-if="false"
     class="update-banner"
     color-scheme="primary"
     :banner-message="bannerMessage"
