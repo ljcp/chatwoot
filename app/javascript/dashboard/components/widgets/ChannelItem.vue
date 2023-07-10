@@ -39,15 +39,7 @@ export default {
         return this.enabledFeatures.channel_email;
       }
 
-      return [
-        'website',
-        'twilio',
-        'api',
-        'whatsapp',
-        'sms',
-        'telegram',
-        'line',
-      ].includes(key);
+      return ['website', 'twilio', 'api', 'whatsapp', 'sms'].includes(key);
     },
   },
   methods: {
