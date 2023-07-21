@@ -41,7 +41,7 @@ export const SDK_CSS = `
   background: #1f93ff;
   border-radius: 100px;
   border-width: 0px;
-  bottom: 20px;
+  bottom: 50px;
   box-shadow: 0 8px 24px rgba(0, 0, 0, .16) !important;
   cursor: pointer;
   height: 64px;
